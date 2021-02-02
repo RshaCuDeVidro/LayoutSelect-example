@@ -16,9 +16,9 @@ letrasNoBox = Fore.CYAN
 selecao = Fore.YELLOW
 
 print(f""" 
-  ╔═══╗
-  ║   ║
-  ╚═══╝
+  ╔═══════════════╗
+  ║ Arrow Down    ║
+  ╚═══════════════╝
   
     
       """)
